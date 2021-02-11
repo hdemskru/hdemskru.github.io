@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Комментарии: Привет, мир!	</title>
-	<atom:link href="https://hde.msk.ru/2021/02/10/1/feed" rel="self" type="application/rss+xml" />
-	<link>https://hde.msk.ru/2021/02/10/1</link>
+	<atom:link href="https://hde.msk.ru/%D0%B1%D0%B5%D0%B7-%D1%80%D1%83%D0%B1%D1%80%D0%B8%D0%BA%D0%B8/1/feed" rel="self" type="application/rss+xml" />
+	<link>https://hde.msk.ru/%d0%b1%d0%b5%d0%b7-%d1%80%d1%83%d0%b1%d1%80%d0%b8%d0%ba%d0%b8/1</link>
 	<description></description>
 	<lastBuildDate>Wed, 10 Feb 2021 19:35:29 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Автор: Автор комментария		</title>
-		<link>https://hde.msk.ru/2021/02/10/1#comment-1</link>
+		<link>https://hde.msk.ru/%d0%b1%d0%b5%d0%b7-%d1%80%d1%83%d0%b1%d1%80%d0%b8%d0%ba%d0%b8/1#comment-1</link>
 
 		<dc:creator><![CDATA[Автор комментария]]></dc:creator>
 		<pubDate>Wed, 10 Feb 2021 19:35:29 +0000</pubDate>
