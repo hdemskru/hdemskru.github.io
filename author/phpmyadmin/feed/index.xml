@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>HDE</title>
-	<atom:link href="https://hde.msk.ru/feed/" rel="self" type="application/rss+xml" />
+	<title>phpmyadmin &#8212; HDE</title>
+	<atom:link href="https://hde.msk.ru/author/phpmyadmin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hde.msk.ru</link>
 	<description>Центр поддержки</description>
 	<lastBuildDate>Fri, 12 Feb 2021 20:07:32 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://hde.msk.ru/wp-content/uploads/cropped-LOGO-1-32x32.png</url>
-	<title>HDE</title>
+	<title>phpmyadmin &#8212; HDE</title>
 	<link>https://hde.msk.ru</link>
 	<width>32</width>
 	<height>32</height>
