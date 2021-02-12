@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Комментарии на сайте HDE	</title>
-	<atom:link href="http://hde.msk.ru/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://hde.msk.ru</link>
+	<atom:link href="https://hde.msk.ru/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hde.msk.ru</link>
 	<description>Help Desk Enterprise</description>
 	<lastBuildDate>Fri, 12 Feb 2021 12:20:10 +0000</lastBuildDate>
 	<sy:updatePeriod>

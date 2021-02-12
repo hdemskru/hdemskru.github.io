@@ -9,8 +9,8 @@
 
 <channel>
 	<title>HDE</title>
-	<atom:link href="http://hde.msk.ru/feed/" rel="self" type="application/rss+xml" />
-	<link>http://hde.msk.ru</link>
+	<atom:link href="https://hde.msk.ru/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hde.msk.ru</link>
 	<description>Help Desk Enterprise</description>
 	<lastBuildDate>Fri, 12 Feb 2021 12:20:10 +0000</lastBuildDate>
 	<language>ru-RU</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=5.6.1</generator>
 
 <image>
-	<url>http://hde.msk.ru/wp-content/uploads/cropped-LOGO-1-32x32.png</url>
+	<url>https://hde.msk.ru/wp-content/uploads/cropped-LOGO-1-32x32.png</url>
 	<title>HDE</title>
-	<link>http://hde.msk.ru</link>
+	<link>https://hde.msk.ru</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
